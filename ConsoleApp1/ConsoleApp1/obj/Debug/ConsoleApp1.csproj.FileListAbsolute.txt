@@ -1,0 +1,10 @@
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\BEST\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

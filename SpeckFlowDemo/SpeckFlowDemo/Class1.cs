@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Calculadora
+{
+    public class Calculadora
+    {
+        public int operadoraA;
+        public int operadorB;
+
+        public int Suma()
+        {
+            return operadoraA + operadorB;
+        }
+    }
+}
